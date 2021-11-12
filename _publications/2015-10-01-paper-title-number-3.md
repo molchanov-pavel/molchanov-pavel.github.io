@@ -4,6 +4,7 @@ collection: publications
 permalink: /publications/2021-11-12-Monetary
 excerpt: 'This paper studies information imperfection in the context of monetary economics.'
 #date: 2021-11-12
+date: 2021-09-01
 'Work in progress'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
