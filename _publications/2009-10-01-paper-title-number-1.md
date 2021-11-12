@@ -1,5 +1,5 @@
 ---
-title: "Increasing Returns, Monopolistic Competition, and Optimal Unemployment"
+title: "Increasing Returns"
 collection: publications
 permalink: /publications/2021-11-12-Unemployment
 excerpt: 'This paper studies the link between product and labor markets.'
