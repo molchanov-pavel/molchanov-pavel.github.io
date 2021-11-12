@@ -41,9 +41,11 @@
     {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-        {% elsif post.coauthors %}
-          <p> {{ post.coauthors }}</p>
     {% endif %}
+    
+    {% if post.addinfo1 %}
+     <p>{{ post.addinfo1 }}</p>
+    {% endif %}  
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
@@ -59,8 +61,8 @@
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
-    {% if post.addinfo %}
-      <p>{{ post.addinfo }}</p>
+    {% if post.addinfo2 %}
+      <p>{{ post.addinfo2 }}</p>
     {% endif %}  
 
   </article>
