@@ -1,3 +1,4 @@
+---
 title: "Increasing Returns, Monopolistic Competition, and Optimal Unemployment"
 collection: publications
 permalink: /publications/2021-11-12-Unemployment
