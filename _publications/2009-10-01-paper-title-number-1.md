@@ -5,6 +5,7 @@ revise and resubmit at the <b>Journal of International Economics</b> (minor revi
 collection: publications
 permalink: /publications/2021-11-12-HarmfulTrade
 excerpt: 'This paper shows that international trade can be detrimental to consumers if its volume is small.'
+venue: 'Work in progress'
 ---
 We study the canonical Krugman (1979) trade model with non-CES preferences that yield autarky at finite trade costs, because of a choke price. While switching from autarky to free trade increases welfare (Krugman's result), we prove a non-monotone impact of gradual trade liberalization: near autarky, it reduces the world welfare. The mechanism of harmful (small-scale) trade includes reducing the mass of firms and socially excessive consumption of imported varieties, because of relative dumping: a lower markup on exports. The same harmful effect persists under heterogeneous firms. Unlike protectionists, we argue that liberalization should go far, but advocate anti-dumping measures or restricting small-scale trade.
 
