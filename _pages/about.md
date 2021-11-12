@@ -15,8 +15,7 @@ In my works, I use theoretical models to study the impact of trade on firm compe
 I am also a Teaching Assistant in microeconomics (baccalauréat level) at Paris-Saclay University for the period of 2020-2022.
 <br/><br/>
 
-**Main research fields**: International Trade, Labour Economics.
-
+**Main research fields**: International Trade, Labour Economics.\
 Other research fields: Imperfect Information.
 <br/><br/>
 
