@@ -1,7 +1,7 @@
 ---
 title: "Increasing Returns, Monopolistic Competition, and Optimal Unemployment"
-collection: publications
-permalink: /publication/2021-11-12-Unemployment
+collection: research
+permalink: /research/2021-11-12-Unemployment
 excerpt: 'This paper studies the link between product and labor markets.'
 date: 2010-10-01
 venue: 'Job-Market paper'
