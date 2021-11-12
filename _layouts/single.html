@@ -37,10 +37,11 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.collection == 'publications' %}
-        {% elsif page.coauthors %}
-          <p> {{ page.coauthors }}</p>
         {% endif %}
         
+        {% if page.addinfo1 %}
+        <p>{{ page.addinfo1 }}</p>
+        {% endif %} 
              
         {% if page.citation and page.paperurl %}
         <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
@@ -50,8 +51,8 @@ layout: default
         <p>Download <a href=" {{ page.paperurl }} "><u>here</u></a></p>
         {% endif %}
           
-        {% if page.addinfo %}
-        <p>{{ page.addinfo }}</p>
+        {% if page.addinfo2 %}
+        <p>{{ page.addinfo2 }}</p>
         {% endif %}  
     
         </header>
