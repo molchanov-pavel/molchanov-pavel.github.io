@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2021-11-12-Unemployment
 excerpt: 'This paper studies the link between product and labor markets.'
 date: 2021-09-01
-venue: 'Work in progress'
+#venue: 'Work in progress'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
