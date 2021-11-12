@@ -1,6 +1,7 @@
 ---
 title: "Optimal Monetary Policy with Dispersed Information and Policy-Contingent Phillips Curve"
 collection: publications
+2003-10-01
 permalink: /publications/2021-11-12-Monetary
 excerpt: '<i>This paper studies information imperfection in the context of monetary economics.</i>'
 addinfo2: Work in progress
