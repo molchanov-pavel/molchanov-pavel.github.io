@@ -1,8 +1,8 @@
 ---
 title: "Increasing Returns, Monopolistic Competition, and International Trade: Revisiting Gains from Trade"
 joint with Sergey Kokovin and Igor Bykadorov
-collection: research
-permalink: /research/2021-11-12-HarmfulTrade
+collection: publications
+permalink: /publications/2021-11-12-HarmfulTrade
 excerpt: 'This paper finds that small-scale trade can be harmful.'
 date: 2021-11-12
 venue: 'revise and resubmit at the Journal of International Economics (minor revisions requested)'
