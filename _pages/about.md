@@ -16,6 +16,7 @@ I am also a Teaching Assistant in microeconomics (baccalauréat level) at Paris-
 <br/><br/>
 
 **Main research fields**: International Trade, Labour Economics.
+
 Other research fields: Imperfect Information.
 <br/><br/>
 
