@@ -9,7 +9,7 @@ date: 2020-09-01
 location: "Orsay, France"
 ---
 
-For the period of 2 years: 2020-2022
+For the period of 2020-2022, in French
 
 Heading 1
 ======
