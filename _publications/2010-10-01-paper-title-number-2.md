@@ -3,8 +3,9 @@ title: "Increasing Returns, Monopolistic Competition, and Optimal Unemployment"
 collection: publications
 permalink: /publications/2021-11-12-Unemployment
 excerpt: 'This paper studies the link between product and labor markets.'
-date: 2010-10-01
-venue: 'Job-Market paper'
+#date: 2010-10-01
+'Job-Market paper'
+#venue: 'Job-Market paper'
 paperurl: 'http://molchanov-pavel.github.io/files/Molchanov%20Increasing%20Returns%20and%20Unemployment.pdf'
 #citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
