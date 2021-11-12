@@ -4,8 +4,8 @@ joint with Sergey Kokovin and Igor Bykadorov
 collection: publications
 permalink: /publications/2021-11-12-HarmfulTrade
 excerpt: 'This paper finds that small-scale trade can be harmful.'
-date: 2021-11-12
-venue: 'revise and resubmit at the Journal of International Economics (minor revisions requested)'
+'revise and resubmit at the Journal of International Economics (minor revisions requested)'
+#venue: 'revise and resubmit at the Journal of International Economics (minor revisions requested)'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
