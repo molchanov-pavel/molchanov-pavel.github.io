@@ -4,6 +4,7 @@ collection: publications
 permalink: /publications/2021-11-12-Unemployment
 excerpt: 'This paper studies the link between product and labor markets.'
 #date: 2010-10-01
+date: 2021-09-01
 'Job-Market paper'
 #venue: 'Job-Market paper'
 paperurl: 'http://molchanov-pavel.github.io/files/Molchanov%20Increasing%20Returns%20and%20Unemployment.pdf'
