@@ -19,7 +19,7 @@ I am also a Teaching Assistant in microeconomics (bachelor level) at Paris-Sacla
 Other research fields: Imperfect Information.
 <br/><br/>
 
-You can view my CV [here](https://www.dropbox.com/s/3xflzf4lvfity0w/CV%20MOLCHANOV.pdf?dl=0).
+You can view my CV [here](http://molchanov-pavel.github.io/files/CV%20MOLCHANOV.pdf).
 
 Contact: MrMPS1992@gmail.com 
 
