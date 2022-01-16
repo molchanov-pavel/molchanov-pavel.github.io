@@ -3,7 +3,8 @@ title: "Increasing Returns, Monopolistic Competition, and Optimal Unemployment"
 collection: publications
 permalink: /publications/2021-11-12-Unemployment
 date: 2001-10-01
-excerpt: '<i>This paper studies the interaction between product competition and a frictional labour market.</i>'
+excerpt: '<i>This paper studies the interaction between product competition and a frictional labour market.</i>
+<p>Job Market paper</p>'
 paperurl: 'http://academicpages.github.io/files/Molchanov%20Increasing%20Returns%20and%20Unemployment.pdf'
 addinfo2: <b>Job Market paper</b>
 ---
