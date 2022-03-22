@@ -1,6 +1,6 @@
 ---
 title: "Increasing Returns, Monopolistic Competition, and International Trade: Revisiting Gains from Trade"
-addinfo1: joint with Sergey Kokovin and Igor Bykadorov <br/> revise and resubmit at the <b>Journal of International Economics</b> (minor revisions requested), available upon request
+addinfo1: joint with Sergey Kokovin and Igor Bykadorov, <b>Journal of International Economics</b>, July 2022, Volume 137, available upon request
 date: 2002-10-01
 collection: publications
 permalink: /publications/2021-11-12-HarmfulTrade
