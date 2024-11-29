@@ -8,4 +8,4 @@ venue: "Higher School of Economics, St.Petersburg School of Economics and Manage
 #date: 2020-09-01
 location: "Saint-Petersburg, Russia"
 ---
-For the period of 2022-now in Engish and Russian
+For the period of 2022-now in English and Russian
