@@ -5,7 +5,7 @@ permalink: /publications/2021-11-12-Unemployment
 date: 2001-10-01
 excerpt: '<i><b>Job Market paper</b><br>  
 This paper studies the interaction between product competition and labour market frictions.</i>'
-paperurl: <!--- 'http://academicpages.github.io/files/Molchanov%20Increasing%20Returns%20and%20Unemployment.pdf' --->
+#paperurl: <!--- 'http://academicpages.github.io/files/Molchanov%20Increasing%20Returns%20and%20Unemployment.pdf' --->
 addinfo2: <!--- This is a comment <b>Job Market paper</b>--->
 
 ---
