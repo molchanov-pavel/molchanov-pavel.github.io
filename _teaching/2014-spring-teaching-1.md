@@ -11,12 +11,3 @@ location: "Orsay, France"
 
 For the period of 2020-2022, in French
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
-
